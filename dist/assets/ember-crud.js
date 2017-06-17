@@ -637,6 +637,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("ember-crud/app")["default"].create({"LOG_RESOLVER":true,"LOG_ACTIVE_GENERATION":true,"LOG_TRANSITIONS":true,"LOG_TRANSITIONS_INTERNAL":true,"LOG_VIEW_LOOKUPS":true,"name":"ember-crud","version":"0.0.0+3b235d0f"});
+  require("ember-crud/app")["default"].create({"LOG_RESOLVER":true,"LOG_ACTIVE_GENERATION":true,"LOG_TRANSITIONS":true,"LOG_TRANSITIONS_INTERNAL":true,"LOG_VIEW_LOOKUPS":true,"name":"ember-crud","version":"0.0.0+0d2ccc5e"});
 }
 //# sourceMappingURL=ember-crud.map

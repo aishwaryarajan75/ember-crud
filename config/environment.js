@@ -12,7 +12,7 @@ module.exports = function(environment) {
     authDomain: 'project1-8889b.firebaseapp.com',
     databaseURL: 'https://project1-8889b.firebaseio.com',
     storageBucket: 'project1-8889b.appspot.com',
-	messagingSenderId: "549082582929"
+    messagingSenderId: "549082582929"
   },
 
 
