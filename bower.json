@@ -1,1 +1,17 @@
-
+{
+  "name": "ember-crud",
+  "description": "Small description for ember-crud goes here",
+  "main": "",
+  "authors": [
+    "Kumar Jayaram Gayatri <kumarjayaram.gayatri@mavs.uta.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aishwaryarajan75/ember-crud",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
